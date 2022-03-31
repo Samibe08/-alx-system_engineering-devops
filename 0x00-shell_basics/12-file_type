@@ -1,2 +1,2 @@
-#!/wq
+#!/bin/bash
 file /tm/iamfile
